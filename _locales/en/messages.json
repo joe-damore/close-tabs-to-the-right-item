@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Close Tabs to the Right Item",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Adds a 'Close Tabs to the Right' item in the tab context menu",
+    "description": "Extension description"
+  },
+  "menuItemTitle": {
+    "message": "Close Tabs to the R&ight",
+    "description": "Context menu item title"
+  }
+}
