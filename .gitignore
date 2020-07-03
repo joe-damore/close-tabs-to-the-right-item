@@ -1,3 +1,6 @@
+# Text editors
+*.sublime-workspace
+
 # Logs
 logs
 *.log
