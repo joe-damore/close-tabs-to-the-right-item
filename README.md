@@ -2,7 +2,7 @@
 
 [![Add-Ons for Firefox | Close Tabs to the Right Menu Item v1.0.0](https://img.shields.io/badge/Firefox%20Add--Ons-v1.0.0-722291)](https://addons.mozilla.org/en-US/firefox/addon/close-tabs-to-the-right-item/)
 
-Firefox extension that adds a "Close Tabs to the Right" tab context menu item in Firefox v78+.
+Firefox extension that adds a "Close Tabs to the Right" context menu item in Firefox v78+.
 
 ## Overview
 Beginning with v78, Firefox's _Close Tabs to the Right_ and _Close Other Tabs_ menu items have been moved to a submenu within the tab context menus.
