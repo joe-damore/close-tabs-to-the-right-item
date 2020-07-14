@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Rechte Tabs schließen Menüpunkt",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Fügt einen 'Rechte Tabs schließen' Eintrag im Tab-Kontextmenü hinzu",
+    "description": "Extension description"
+  },
+  "menuItemTitle": {
+    "message": "&Rechte Tabs schließen",
+    "description": "Context menu item title"
+  }
+}
