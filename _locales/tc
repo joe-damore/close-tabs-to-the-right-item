@@ -4,7 +4,7 @@
     "description": "Extension name"
   },
   "extensionDescription": {
-    "message": "新增「關閉其他分頁」到分頁右鍵選單",
+    "message": "新增「關閉右側分頁」到分頁右鍵選單",
     "description": "Extension description"
   },
   "menuItemTitle": {
