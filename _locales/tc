@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "關閉右側分頁",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "新增「關閉其他分頁」到分頁右鍵選單",
+    "description": "Extension description"
+  },
+  "menuItemTitle": {
+    "message": "關閉右側分頁",
+    "description": "Context menu item title"
+  }
+}
